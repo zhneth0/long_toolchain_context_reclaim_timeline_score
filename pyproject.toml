@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "zhneth0-mlopsarch_jd037"
+name = "zhneth0-long_toolchain_context_reclaim_timeline_score"
 version = "0.1.0"
 description = "解析时间标记，排列MLOps 平台架构师·长工具链的上下文回收的发生顺序，标出间隔异常与逆序事件"
 readme = "README.md"
@@ -22,11 +22,11 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://zhneth0.github.io"
-Repository = "https://github.com/zhneth0/mlopsarch_jd037"
-Issues = "https://github.com/zhneth0/mlopsarch_jd037/issues"
+Repository = "https://github.com/zhneth0/long_toolchain_context_reclaim_timeline_score"
+Issues = "https://github.com/zhneth0/long_toolchain_context_reclaim_timeline_score/issues"
 
 [project.scripts]
-mlopsarch_jd037 = "mlopsarch_jd037:main"
+long_toolchain_context_reclaim_timeline_score = "long_toolchain_context_reclaim_timeline_score:main"
 
 [tool.setuptools]
-py-modules = ["mlopsarch_jd037"]
+py-modules = ["long_toolchain_context_reclaim_timeline_score"]
